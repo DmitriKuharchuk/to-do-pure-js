@@ -1,7 +1,7 @@
 
 
 ## Сервисы и порты
-- **Frontend (react):** http://localhost:3000  
+- **Frontend (node):** http://localhost:3000  
 - **Frontend + API через Nginx:** http://localhost:8080  
   - `/api` → Laravel (php-fpm)  
   - `/` →  (node:3000)  
